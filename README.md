@@ -1,4 +1,4 @@
-# GSOC21
+# GSOC21 Proposal
 Dimensionality Reduction for Studying Diffuse Circumgalactic Medium Evaluation Test
 
 The repository contains Notebooks pdfs and the models used for completing the evaluation tasks.<br><br>
